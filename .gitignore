@@ -9,6 +9,7 @@ storage/test.zip
 /vendor
 .env
 .env.backup
+.env.example
 .phpunit.result.cache
 docker-compose.override.yml
 Homestead.json

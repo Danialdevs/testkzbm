@@ -13,7 +13,7 @@
 .card .fon {
   position: absolute;
   z-index: -1;
-  opacity: 0.8;
+  opacity: 0.2;
 }
 
 .card_box {
@@ -235,7 +235,7 @@
 .card_slider .fon {
   position: absolute;
   z-index: -1;
-  opacity: 0.8;
+  opacity: 0.2;
 }
 
 .card_slider picture {
@@ -1882,7 +1882,7 @@
 .productPage .block1 .left .banner .item .fon {
   position: absolute;
   z-index: -1;
-  opacity: 0.8;
+  opacity: 0.2;
 }
 
 .productPage .block1 .left .banner .item .fon img {
@@ -1979,7 +1979,7 @@
 .productPage .block1 .left .slider .item .fon {
   position: absolute;
   z-index: -1;
-  opacity: 0.8;
+  opacity: 0.2;
 }
 
 .productPage .block1 .left .slider .item picture {
